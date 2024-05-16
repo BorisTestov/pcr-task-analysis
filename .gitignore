@@ -1,0 +1,5 @@
+logs/
+data/
+.env
+statistics.json
+chart.png
